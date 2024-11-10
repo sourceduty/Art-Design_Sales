@@ -11,7 +11,7 @@
 #
 ### Related Links
 
-[CHatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+[ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
